@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name TRL32_Cart_Project-eagle-import)(type Legacy)(uri ${KIPRJMOD}/TRL32_Cart_Project-eagle-import.lib)(options "")(descr ""))
+  (lib (name OpenC64Cart)(type Legacy)(uri ${KIPRJMOD}/OpenC64Cart.lib)(options "")(descr ""))
+  (lib (name Versa64Cart)(type Legacy)(uri ${KIPRJMOD}/Versa64Cart.lib)(options "")(descr ""))
+  (lib (name UltiMaxRamTest_Project-cache)(type Legacy)(uri ${KIPRJMOD}/UltiMaxRamTest_Project-cache.lib)(options "")(descr ""))
+  (lib (name c64-exp-port)(type Legacy)(uri ${KIPRJMOD}/c64-exp-port.lib)(options "")(descr ""))
+  (lib (name UltiMaxRamTest_Project-rescue)(type Legacy)(uri ${KIPRJMOD}/UltiMaxRamTest_Project-rescue.lib)(options "")(descr ""))
+)

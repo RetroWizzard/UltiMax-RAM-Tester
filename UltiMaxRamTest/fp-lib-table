@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name OpenCart)(type KiCad)(uri ${KIPRJMOD}/OpenC64Cart16K.pretty)(options "")(descr ""))
+  (lib (name PLCC)(type KiCad)(uri ${KIPRJMOD}/Housings_LCC.pretty)(options "")(descr ""))
+  (lib (name Wizzard)(type KiCad)(uri ${KIPRJMOD}/Wizzard.pretty)(options "")(descr ""))
+  (lib (name CustomSwitch)(type KiCad)(uri ${KIPRJMOD}/CustomSwitch.pretty)(options "")(descr ""))
+)
