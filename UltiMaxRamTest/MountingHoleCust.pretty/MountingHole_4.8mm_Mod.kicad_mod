@@ -1,0 +1,14 @@
+(module MountingHole_4.8mm_Mod (layer F.Cu) (tedit 5D0E92A5)
+  (descr "Mounting Hole 4.3mm, no annular, M4")
+  (tags "mounting hole 4.3mm no annular m4")
+  (solder_mask_margin 0.2)
+  (clearance 0.2)
+  (attr virtual)
+  (fp_text reference M3c (at 0.03836 -3.5915) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value M3 (at 0.05614 3.60432) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 4.8 4.8) (drill 4.8) (layers *.Cu *.Mask))
+)
